@@ -114,6 +114,5 @@ Analyze transaction data from a local grocery store to uncover customer behavior
 
 ---
 
-## 📂 Repository Structure
 
 
